@@ -1,24 +1,5 @@
-# README
+# Pass Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Phase 5 Capstone Project
+An Application to create, manage and store account information.
+An app created with a react front end and ruby on rails backend.
